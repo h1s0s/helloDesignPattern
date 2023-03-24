@@ -1,4 +1,4 @@
-package designpattern.factorymethod2.after;
+package designpattern.factorymethod.after;
 
 public class CarFactory {
 	public Car createCar(String productName){//이름값을 받으면 카를 반환해주는 메서드

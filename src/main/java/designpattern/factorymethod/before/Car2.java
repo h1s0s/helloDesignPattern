@@ -1,4 +1,4 @@
-package designpattern.factorymethod2.before;
+package designpattern.factorymethod.before;
 
 public class Car2 {
 	public static final String SONATA = "Sonata";

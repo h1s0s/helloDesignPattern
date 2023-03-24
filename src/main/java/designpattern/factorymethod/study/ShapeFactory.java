@@ -1,4 +1,4 @@
-package designpattern.factorymethod;
+package designpattern.factorymethod.study;
 
 public class ShapeFactory {
 	//ShapeFactory는 Shape인터페이스를 생성하는 역할을 담당

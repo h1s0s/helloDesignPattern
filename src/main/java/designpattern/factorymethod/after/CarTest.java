@@ -1,6 +1,4 @@
-package designpattern.factorymethod2.after;
-
-import designpattern.factorymethod2.before.Car2;
+package designpattern.factorymethod.after;
 
 public class CarTest {
 	public static void main(String[] args) {

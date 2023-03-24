@@ -1,4 +1,4 @@
-package designpattern.factorymethod2.after;
+package designpattern.factorymethod.after;
 
 public class Grandeur extends Car {
 	public Grandeur(String productName) {

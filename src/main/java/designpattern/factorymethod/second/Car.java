@@ -1,4 +1,4 @@
-package designpattern.factorymethod2.after;
+package designpattern.factorymethod.second;
 
 public abstract class Car {
 	String productName;

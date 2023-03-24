@@ -1,4 +1,4 @@
-package designpattern.factorymethod2.after;
+package designpattern.factorymethod.after;
 
 public class Genesis extends Car{
 	public Genesis(String productName) {
